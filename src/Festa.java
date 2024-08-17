@@ -1,5 +1,6 @@
 public class Festa {
     public void verificaEntrada(Pessoa pessoa) {
+
         int idade = pessoa.getIdade();
 
         if (pessoa.podeEntrarNaFesta()) {

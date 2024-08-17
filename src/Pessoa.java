@@ -11,7 +11,6 @@ public class Pessoa {
         return idade;
     }
 
-
     public boolean podeEntrarNaFesta() {
         if (idade >= 18) {
             return true;

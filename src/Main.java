@@ -9,7 +9,6 @@ public class Main {
 
         boolean temAcompanhante = false;
 
-
         if (idade >= 16 && idade <= 17) {
             System.out.print("Você tem acompanhante? (true/false): ");
             temAcompanhante = scanner.nextBoolean();
